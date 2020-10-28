@@ -11,7 +11,7 @@ We can proceed by recognising that if the data array `x` is sorted into ascendin
 __To complete this exercise you need to complete the function called `dataFraction` in the block on the left__.  `dataFraction` takes two variables in the input:
 
 1. `data` is an np array containing a data set.  
-2, `ind` is an integer, k, that indicates which element of the sorted data array you are interested in.
+2. `ind` is an integer, k, that indicates which element of the sorted data array you are interested in.
 
 Your program should `return` the percentage of elements in data that are less than or equal to the index `ind` of `data` after this array has been sorted.
 
